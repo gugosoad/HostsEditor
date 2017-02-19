@@ -1,0 +1,9 @@
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\obj\Release\HostsEditor.csprojResolveAssemblyReference.cache
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\obj\Release\HostsEdit.Form1.resources
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\obj\Release\HostsEditor.csproj.GenerateResource.Cache
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\bin\Release\HostsEditor.exe.config
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\bin\Release\HostsEditor.exe
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\bin\Release\HostsEditor.pdb
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\obj\Release\HostsEditor.Properties.Resources.resources
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\obj\Release\HostsEditor.exe
+C:\Users\anonymous\Documents\Visual Studio 2015\Projects\HostsEdit\HostsEdit\obj\Release\HostsEditor.pdb
